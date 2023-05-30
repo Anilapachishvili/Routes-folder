@@ -1,0 +1,47 @@
+.container h1 {
+    height: 126px;
+     width: 683px;
+    font-family: "Noto Sans Arabic";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 63px;
+    text-transform: capitalize;
+    text-align: left;
+}
+.container p{
+    font-family: "Noto Sans Arabic";
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: left;
+    width:  603px;
+    height: 153px;
+}
+button{
+    width: 206px;
+    height: 75px;
+    background:  rgb(85, 85,255, 0.81);
+    border-color:rgb(85, 85,255, 0.81);
+    color: white;
+    font-family: "Oxygen";
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45.56px;
+}
+.container{
+    display: flex; 
+    flex-direction: column;
+    margin:  120px;
+    margin-top: 120px;
+}
+.homeimg{
+    width: 492.58px;
+    height: 328px;
+    margin-top: 180px;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
